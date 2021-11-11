@@ -1,4 +1,4 @@
-# pinterest_clone
+# PicsD
 
 A new Flutter project.
 
